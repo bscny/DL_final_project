@@ -1,6 +1,6 @@
 # SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy
 
-**IMPORTANT**: This is the unofficial implementation of the CVPR 2023 accepted paper [SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy](https://cvpr.thecvf.com/virtual/2023/poster/21335), we selected this paper as our 2025 Deep Learning final project at Department, Computer science of NCCU
+**IMPORTANT**: This is the unofficial implementation of the CVPR 2023 accepted paper [SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy](https://cvpr.thecvf.com/virtual/2023/poster/21335), we selected this paper as our 2025 Deep Learning final project at Department Computer science, NCCU
 
 [[Final Presentation Slide](https://github.com/bscny/DL_final_project/blob/main/docs/reports/presentation_slide.pdf)] [[Final Report (TBD)]()] [[Project Proposal](https://github.com/bscny/DL_final_project/blob/main/docs/reports/proposal.pdf)] [[Our codes](https://github.com/bscny/DL_final_project/blob/main/src)]
 
